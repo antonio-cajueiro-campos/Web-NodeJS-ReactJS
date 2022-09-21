@@ -1,0 +1,12 @@
+.foto {
+	text-align: center;
+}
+
+img {
+	margin-top: 50px;
+	margin-bottom: 25px;
+	border-radius: 3px;
+	-webkit-box-shadow: 0 1px 1px 0 rgb(66 66 66 / 8%), 0 1px 3px 1px rgb(66 66 66 / 16%);;
+	box-shadow: 0 1px 1px 0 rgb(66 66 66 / 8%), 0 1px 3px 1px rgb(66 66 66 / 16%);;
+	max-height: 500px;
+}

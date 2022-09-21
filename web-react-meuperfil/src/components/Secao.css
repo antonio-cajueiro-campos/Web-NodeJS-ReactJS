@@ -1,0 +1,8 @@
+.secao {
+	border-radius: 3px;
+	padding: 2px 20px;
+	background: white;
+	-webkit-box-shadow: 0 1px 1px 0 rgb(66 66 66 / 8%), 0 1px 3px 1px rgb(66 66 66 / 16%);;
+	box-shadow: 0 1px 1px 0 rgb(66 66 66 / 8%), 0 1px 3px 1px rgb(66 66 66 / 16%);;
+	margin-bottom: 30px;
+}
